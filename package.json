@@ -1,0 +1,19 @@
+{
+  "name": "timer-web-app",
+  "version": "1.0.0",
+  "description": "A simple web application for a timer with start, pause, end, and reset functionalities.",
+  "main": "src/js/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "timer",
+    "web",
+    "javascript"
+  ],
+  "author": "Raffaela Länger",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
