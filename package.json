@@ -1,7 +1,7 @@
 {
   "name": "timer-web-app",
   "version": "1.0.0",
-  "description": "A simple web application for a timer with start, pause, end, and reset functionalities.",
+  "description": "A simple web application for a timer with start, pause, end and reset functionalities.",
   "main": "src/js/app.js",
   "scripts": {
     "start": "live-server src"
